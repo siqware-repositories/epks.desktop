@@ -1,0 +1,1 @@
+export const getSubjects = state => { return state.subjects; };
